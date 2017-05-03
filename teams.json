@@ -1,0 +1,180 @@
+{
+	"team": "Celtics",
+	"loc": "Boston",
+	"division": "Atlantic",
+	"conf": "East"
+},
+{
+	"team": "Nets",
+	"loc": "Brooklyn",
+	"division": "Atlantic",
+	"conf": "East"
+},
+{
+	"team": "Knicks",
+	"loc": "New York",
+	"division": "Atlantic",
+	"conf": "East"
+},
+{
+	"team": "76ers",
+	"loc": "Philadelphia",
+	"division": "Atlantic",
+	"conf": "East"
+},
+{
+	"team": "Raptors",
+	"loc": "Toronto",
+	"division": "Atlantic",
+	"conf": "East"
+},
+{
+	"team": "Warriors",
+	"loc": "Golden State",
+	"division": "Pacific",
+	"conf": "West"
+},
+{
+	"team": "Clippers",
+	"loc": "Los Angelos",
+	"division": "Pacific",
+	"conf": "West"
+},
+{
+	"team": "Lakers",
+	"loc": "Los Angelos",
+	"division": "Pacific",
+	"conf": "West"
+},
+{
+	"team": "Suns",
+	"loc": "Phoenix",
+	"division": "Pacific",
+	"conf": "West"
+},
+{
+	"team": "Kings",
+	"loc": "Sacramento",
+	"division": "Pacific",
+	"conf": "West"
+},
+{
+	"team": "Bulls",
+	"loc": "Chicago",
+	"division": "Central",
+	"conf": "East"
+},
+{
+	"team": "Cavaliers",
+	"loc": "Cleveland",
+	"division": "Central",
+	"conf": "East"
+},
+{
+	"team": "Pistons",
+	"loc": "Detroit",
+	"division": "Central",
+	"conf": "East"
+},
+{
+	"team": "Pacers",
+	"loc": "Indiana",
+	"division": "Central",
+	"conf": "East"
+},
+{
+	"team": "Bucks",
+	"loc": "Milwaukee",
+	"division": "Central",
+	"conf": "East"
+},
+{
+	"team": "Mavericks",
+	"loc": "Dallas",
+	"division": "Southwest",
+	"conf": "West"
+},
+{
+	"team": "Rockets",
+	"loc": "Houston",
+	"division": "Southwest",
+	"conf": "West"
+},
+{
+	"team": "Grizzlies",
+	"loc": "Memphis",
+	"division": "Southwest",
+	"conf": "West"
+},
+{
+	"team": "Pelicans",
+	"loc": "New Orleans",
+	"division": "Southwest",
+	"conf": "West"
+},
+{
+	"team": "Spurs",
+	"loc": "San Antonio",
+	"division": "Southwest",
+	"conf": "West"
+},
+{
+	"team": "Hawks",
+	"loc": "Atlanta",
+	"division": "Southeast",
+	"conf": "East"
+},
+{
+	"team": "Hornets",
+	"loc": "Charlotte",
+	"division": "Southeast",
+	"conf": "East"
+},
+{
+	"team": "Heat",
+	"loc": "Miami",
+	"division": "Southeast",
+	"conf": "East"
+},
+{
+	"team": "Magic",
+	"loc": "Orlando",
+	"division": "Southeast",
+	"conf": "East"
+},
+{
+	"team": "Wizards",
+	"loc": "Washington",
+	"division": "Southeast",
+	"conf": "East"
+},
+{
+	"team": "Nuggets",
+	"loc": "Denver",
+	"division": "Northwest",
+	"conf": "West"
+},
+{
+	"team": "Timberwolves",
+	"loc": "Minnesota",
+	"division": "Northwest",
+	"conf": "West"
+},
+{
+	"team": "Thunder",
+	"loc": "Oklahoma City",
+	"division": "Northwest",
+	"conf": "West"
+},
+{
+	"team": "Trail Blazers",
+	"loc": "Portland",
+	"division": "Northwest",
+	"conf": "West"
+},
+{
+	"team": "Jazz",
+	"loc": "Utah",
+	"division": "Northwest",
+	"conf": "West"
+}
